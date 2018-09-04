@@ -1,7 +1,7 @@
 class Person
-def wlak
+
+  
+def walk
    puts "The Person is walking".
 end
 end
-
-jean = Person.new
